@@ -231,7 +231,7 @@ cursor: pointer;
  align-items: center;
  height: 250px;
  cursor: pointer;
- background-color: lightgreen;
+ 
  
 
 
@@ -239,10 +239,11 @@ cursor: pointer;
 }
 .text1{
     width: 300px;
-    background-color: burlywood;
     cursor: pointer;
     display: flex;
-    margin-left: 500px;
+    margin-left: 570px;
+    margin-bottom: -56px;
+
     
     
     
@@ -258,8 +259,8 @@ cursor: pointer;
 .text2{
     margin-left: 800px;
     cursor: pointer;
-    background-color: aqua;
     margin-bottom: 50px;
+    font:color black;
     
     
     
@@ -268,6 +269,8 @@ cursor: pointer;
 .text2 a{
     text-decoration: none;
 }
+
+
 
 .footer{
     width: 100%;
@@ -370,3 +373,14 @@ cursor: pointer;
     margin-left: 1029px;
     cursor: pointer;
 }
+.footer-text{
+    margin-top: 30px;
+}
+.footer-text1{
+    margin-top: 30px;
+}
+
+
+    .footer-text0{
+        margin-top:30px;
+    }
